@@ -28,8 +28,8 @@ Los comandos más utilizados para listar y monitorear procesos desde la consola 
 * **`ps`**: Lista procesos en ejecución.
   * **`ps -ux`**: lista los procesos del usuario actual.
   * **`ps -aux`**: lista todos los procesos del sistema.
-* **top**: Muestra procesos más activos, ordenados por uso de CPU.
-* **jobs**: Muestra procesos en background en el shell actual.
+* **`top`**: Muestra procesos más activos, ordenados por uso de CPU.
+* **`jobs`**: Muestra procesos en background en el shell actual.
 
 ### 2.3. Practicando los comandos anteriores
 
