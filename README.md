@@ -1,6 +1,6 @@
 # Tarea de Programación – Laboratorio 1
 
-> Desarrollo del programa `psinfo` con uso reflexivo de herramientas de IA generativa
+> ### Desarrollo del programa `psinfo` con uso reflexivo de herramientas de IA generativa
 
 ## 1. Introducción
 
